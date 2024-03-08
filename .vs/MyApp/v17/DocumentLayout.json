@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\controllers\\jwtautentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\jwtautentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\controllers\\attributenamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\attributenamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\controllers\\attributecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\attributecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\servicesimpl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\servicesimpl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\servicesimpl\\attributeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\servicesimpl\\attributeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\servicesimpl\\unitserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\servicesimpl\\unitserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\servicesimpl\\typeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\servicesimpl\\typeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\servicesimpl\\productserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\servicesimpl\\productserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\attributenameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\attributenameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\unitrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\unitrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\typerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\typerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\attributerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\attributerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\requests\\attributenamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\requests\\attributenamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\enums\\unitofmeasurementcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\enums\\unitofmeasurementcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\dbproductscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\dbproductscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\dtos\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\dtos\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\dtos\\attributedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\dtos\\attributedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\entities\\attributename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\entities\\attributename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\models\\dtos\\attributenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\dtos\\attributenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\unitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\unitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\attributeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\attributeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|c:\\users\\user\\source\\repos\\myapp\\myapp\\services\\servicesimpl\\attributenameserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C030DAB-DBA4-4433-8B3B-53AD7EF5924A}|MyApp\\MyApp.csproj|solutionrelative:myapp\\services\\servicesimpl\\attributenameserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\TypeController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\TypeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\TypeController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\TypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:27:54.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\UnitController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\UnitController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:30:02.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttributeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\AttributeController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\AttributeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\AttributeController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\AttributeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:55:16.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:49:13.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JWTAutentification.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\JWTAutentification.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\JWTAutentification.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\JWTAutentification.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\JWTAutentification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:55:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:26:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttributeNameController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\AttributeNameController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\AttributeNameController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Controllers\\AttributeNameController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\AttributeNameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:31:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T15:23:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\AuthServiceImpl.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ServicesImpl\\AuthServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\AuthServiceImpl.cs",
+              "RelativeToolTip": "MyApp\\Services\\ServicesImpl\\AuthServiceImpl.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:04:37.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:09:13.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MyApp\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\MappingProfile.cs",
+              "RelativeToolTip": "MyApp\\MappingProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:41:19.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttributeServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\AttributeServiceImpl.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ServicesImpl\\AttributeServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\AttributeServiceImpl.cs",
+              "RelativeToolTip": "MyApp\\Services\\ServicesImpl\\AttributeServiceImpl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:53:29.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TypeServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\TypeServiceImpl.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ServicesImpl\\TypeServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\TypeServiceImpl.cs",
+              "RelativeToolTip": "MyApp\\Services\\ServicesImpl\\TypeServiceImpl.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:24:30.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\UnitServiceImpl.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ServicesImpl\\UnitServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\UnitServiceImpl.cs",
+              "RelativeToolTip": "MyApp\\Services\\ServicesImpl\\UnitServiceImpl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:23:07.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\ProductServiceImpl.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ServicesImpl\\ProductServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\ProductServiceImpl.cs",
+              "RelativeToolTip": "MyApp\\Services\\ServicesImpl\\ProductServiceImpl.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:41:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttributeNameService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\AttributeNameService.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\AttributeNameService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\AttributeNameService.cs",
+              "RelativeToolTip": "MyApp\\Services\\AttributeNameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:24:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\UnitRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\UnitRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\UnitRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\UnitRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:21:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TypeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\TypeRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\TypeRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\TypeRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\TypeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:38:34.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:01:07.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\ProductRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:43:09.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:01:21.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AttributeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\AttributeRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\AttributeRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\AttributeRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\AttributeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:39:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AttributeNameRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\AttributeNameRequest.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Requests\\AttributeNameRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Requests\\AttributeNameRequest.cs",
+              "RelativeToolTip": "MyApp\\Models\\Requests\\AttributeNameRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:22:04.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfMeasurementcs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Enums\\UnitOfMeasurementcs.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Enums\\UnitOfMeasurementcs.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Enums\\UnitOfMeasurementcs.cs",
+              "RelativeToolTip": "MyApp\\Models\\Enums\\UnitOfMeasurementcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:14:46.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:02:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbProductsContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\DbProductsContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\DbProductsContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\DbProductsContext.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\DbProductsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:02:20.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Type.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\Type.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Type.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:45:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Attribute.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Attribute.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\Attribute.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Attribute.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\Attribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:48:25.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "MyApp\\Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:47:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "MyApp\\Models\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:48:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\UnitDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DTOs\\UnitDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\UnitDto.cs",
+              "RelativeToolTip": "MyApp\\Models\\DTOs\\UnitDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:47:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\TypeDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DTOs\\TypeDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\TypeDto.cs",
+              "RelativeToolTip": "MyApp\\Models\\DTOs\\TypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:47:29.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AttributeDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\AttributeDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DTOs\\AttributeDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\AttributeDto.cs",
+              "RelativeToolTip": "MyApp\\Models\\DTOs\\AttributeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:46:20.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:04:45.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Unit.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\Unit.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Unit.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:04:31.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Attributename.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Attributename.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Entities\\Attributename.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\Entities\\Attributename.cs",
+              "RelativeToolTip": "MyApp\\Models\\Entities\\Attributename.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:01:11.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AttributeNameDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\AttributeNameDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DTOs\\AttributeNameDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Models\\DTOs\\AttributeNameDto.cs",
+              "RelativeToolTip": "MyApp\\Models\\DTOs\\AttributeNameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:46:30.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AttributeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\AttributeService.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\AttributeService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\AttributeService.cs",
+              "RelativeToolTip": "MyApp\\Services\\AttributeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:53:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "MyApp\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:59:25.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnitService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\UnitService.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\UnitService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\UnitService.cs",
+              "RelativeToolTip": "MyApp\\Services\\UnitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:22:41.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TypeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\TypeService.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\TypeService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\TypeService.cs",
+              "RelativeToolTip": "MyApp\\Services\\TypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:24:07.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "MyApp\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:41:36.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AttributeNameServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\AttributeNameServiceImpl.cs",
+              "RelativeDocumentMoniker": "MyApp\\Services\\ServicesImpl\\AttributeNameServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyApp\\MyApp\\Services\\ServicesImpl\\AttributeNameServiceImpl.cs",
+              "RelativeToolTip": "MyApp\\Services\\ServicesImpl\\AttributeNameServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:27:38.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
